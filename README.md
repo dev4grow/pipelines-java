@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/cofa0920/test-java-pipeline1/_apis/build/status/dev4grow.pipelines-java?branchName=master)](https://dev.azure.com/cofa0920/test-java-pipeline1/_build/latest?definitionId=3&branchName=master)
+
 [![Build Status](https://dev.azure.com/cofa0920/oh-aks/_apis/build/status/dev4grow.pipelines-java?branchName=master)](https://dev.azure.com/cofa0920/oh-aks/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
