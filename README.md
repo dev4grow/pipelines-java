@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/cofa0920/oh-aks/_apis/build/status/dev4grow.pipelines-java?branchName=master)](https://dev.azure.com/cofa0920/oh-aks/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
